@@ -27,6 +27,7 @@ docker/.env
 _image/
 
 .github/
+config/
 
 *.log
 .env.local
