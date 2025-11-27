@@ -28,6 +28,9 @@ _image/
 
 .github/
 
+config/
+frequency_words.txt
+
 *.log
 .env.local
 .env.*.local
